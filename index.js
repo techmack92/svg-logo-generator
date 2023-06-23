@@ -33,4 +33,19 @@ const questions = [
 ];
 
 // Function that writes an SVG logo file
+function writeSVGFile(fileName, data) {
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
+}
+
+// Function that initializes app
+function init() {
+    inquirer.prompt(questions).then((responses) => {
+        console.log("Your SVG logo has been generated; you can find it in the 'dist' folder!");
+        console.log("Data Object:", responses);
+        writeSVGFile("./dist/logo.svg", {...responses});
+    });
+}
+
+init();
+
 
