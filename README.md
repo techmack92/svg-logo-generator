@@ -4,6 +4,7 @@
 + [Overview](#description)
 + [Installation](#installation)
 + [Usage](#usage)
++ [Demo](#demo)
 + [Contributing](#contributing)
 + [Tests](#tests)
 + [License](#license)
