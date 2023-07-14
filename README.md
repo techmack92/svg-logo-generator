@@ -11,7 +11,7 @@
 + [Questions](#questions)
 
 ## Overview
-The purpose of this project is to generate a professional README.md file for new projects.
+The purpose of this project is to generate an SVG logo file that reflects user input.
 
 ## Installation
 ***Install these programs on your computer:***
@@ -27,7 +27,10 @@ The purpose of this project is to generate a professional README.md file for new
 4. Use command: `npm install --save-dev jest` to install Jest as a devDependency
 
 ## Usage
-When the user has the required software & Node packages installed, begin the application by using command: `node index.js`<br> Answer the prompts that display on the screen<br> Once all questions are answered, your SVG logo file will generate in the `dist` folder.
+When user has completed all installation steps:<br> 
+1. Begin the application by using command: `node index.js`<br> 
+2. Answer the prompts that display on the screen<br> 
+3. Once all questions are answered, your SVG logo file will generate in the `dist` folder
 
 ## Demo
 This link will route you to a video walkthrough that shows the CLI application's functionality<br> You can also watch below:<br>
@@ -36,7 +39,11 @@ This link will route you to a video walkthrough that shows the CLI application's
 If you have any contributing ideas for this project, contact me using the methods in [Questions](#questions) section
 
 ## Tests
-N/A
++ The test suite has one test for each shape class: `Circle, Triangle & Square`<br>
++ Each class is tested using a `render()` method that returns a string containg the SVG markup<br>
++ The SVG markup should reflect the shape, shape color, text & text color provided in test suite<br><br>
+
+***To initiate test, use command:*** `npm test` & Jest will run the test suite.
 
 ## License
 [![GitHub license](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
