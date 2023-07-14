@@ -1,4 +1,8 @@
 # SVG Logo Generator
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+[![GitHub license](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
 ## Navigation Links
 + [Overview](#overview)
@@ -35,7 +39,10 @@ When user has completed all installation steps:<br>
 ## Demo
 [This link](https://drive.google.com/file/d/1aHwVp6TSnOUTC3O981mYrREvLcOxw7x9/view?usp=sharing) will route you to a video walkthrough that shows the CLI application's functionality.<br><br>
 You can also watch below:<br>
-https://user-images.githubusercontent.com/124395371/253676527-1be8da0f-40cd-4c39-8ec2-ecb061119384.mp4
+
+https://github.com/techmack92/svg-logo-generator/assets/124395371/802f37b0-f2a9-4040-9249-7d32e37a751f
+
+
 
 ## Contributing
 If you have any contributing ideas for this project, contact me using the methods in [Questions](#questions) section
@@ -48,8 +55,7 @@ If you have any contributing ideas for this project, contact me using the method
 ***To initiate test, use command:*** `npm test` & Jest will run the test suite.
 
 ## License
-[![GitHub license](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
-
+Licensed under the <a href="https://github.com/techmack92/code-quiz/main/LICENSE"> **MIT**</a> license.
 
 ## Questions
 If you have any questions about this project, use the contact methods below.<br>
