@@ -1,8 +1,9 @@
 # SVG Logo Generator
+[![GitHub license](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-[![GitHub license](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Navigation Links
 + [Overview](#overview)
