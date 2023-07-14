@@ -33,7 +33,9 @@ When user has completed all installation steps:<br>
 3. Once all questions are answered, your SVG logo file will generate in the `dist` folder
 
 ## Demo
-This link will route you to a video walkthrough that shows the CLI application's functionality<br> You can also watch below:<br>
+[This link](https://drive.google.com/file/d/1aHwVp6TSnOUTC3O981mYrREvLcOxw7x9/view?usp=sharing) will route you to a video walkthrough that shows the CLI application's functionality.<br><br>
+You can also watch below:<br>
+![Demo](https://github.com/techmack92/svg-logo-generator/assets/124395371/1be8da0f-40cd-4c39-8ec2-ecb061119384)
 
 ## Contributing
 If you have any contributing ideas for this project, contact me using the methods in [Questions](#questions) section

@@ -1,6 +1,5 @@
-
-        <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-        <circle cx="100" cy="100" r="90" fill="Green"/> 
-        <text x="100" y="100" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="White">
-        SVG</text>
-        </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+    <circle cx="100" cy="100" r="90" fill="green"/>
+    <text x="100" y="100" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="white">
+    SVG</text>
+    </svg>
