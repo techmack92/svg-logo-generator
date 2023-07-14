@@ -17,23 +17,23 @@ The purpose of this project is to generate a professional README.md file for new
 ***Install these programs on your computer:***
 + Visual Studio<br>
 + GitBash <br> 
-+ Node.js
-+ Jest<br>
++ Node.js<br>
++ Jest (for testing)
 
 ***Initialize the application:***<br>
 1. Clone this repository<br> 
 2. Use command: `npm init -y` to install the Node Package Manager<br> 
 3. Use command: `npm install inquirer@8.0.0` to install the correct inquirer package for this application
+4. Use command: `npm install --save-dev jest` to install Jest as a devDependency
 
 ## Usage
-When the user has the required software & Node packages installed, begin the application by using command: `node index.js`<br> Answer the prompts that display on the screen using descriptive details of your project<br> Once all questions are answered, your professional README.md file will generate in the `dist` folder.
+When the user has the required software & Node packages installed, begin the application by using command: `node index.js`<br> Answer the prompts that display on the screen<br> Once all questions are answered, your SVG logo file will generate in the `dist` folder.
 
 ## Demo
-
-The following link will route you to a video walkthrough that shows the CLI application's functionality:<br>
+This link will route you to a video walkthrough that shows the CLI application's functionality<br> You can also watch below:<br>
 
 ## Contributing
-N/A
+If you have any contributing ideas for this project, contact me using the methods in [Questions](#questions) section
 
 ## Tests
 N/A
@@ -46,6 +46,3 @@ N/A
 If you have any questions about this project, use the contact methods below.<br>
 [GitHub](https://github.com/techmack92) <br>
 [Email](mailto:mldixon9750@gmail.com)
-
-## Credits
-Mack Dixon
