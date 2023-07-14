@@ -1,7 +1,7 @@
 # SVG Logo Generator
 
 ## Navigation Links
-+ [Overview](#description)
++ [Overview](#overview)
 + [Installation](#installation)
 + [Usage](#usage)
 + [Demo](#demo)
@@ -23,14 +23,14 @@ The purpose of this project is to generate a professional README.md file for new
 ***Initialize the application:***<br>
 1. Clone this repository<br> 
 2. Use command: `npm init -y` to install the Node Package Manager<br> 
-3. Use command: `npm install inquirer@7.3.3` to install the correct inquirer package for this application
+3. Use command: `npm install inquirer@8.0.0` to install the correct inquirer package for this application
 
 ## Usage
 When the user has the required software & Node packages installed, begin the application by using command: `node index.js`<br> Answer the prompts that display on the screen using descriptive details of your project<br> Once all questions are answered, your professional README.md file will generate in the `dist` folder.
 
 ## Demo
 
-The following link will route you to the demonstration that shows the CLI application's functionality:<br>
+The following link will route you to a video walkthrough that shows the CLI application's functionality:<br>
 
 ## Contributing
 N/A
